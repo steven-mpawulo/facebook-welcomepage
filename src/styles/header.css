@@ -1,0 +1,50 @@
+.my-header {
+    display: flex;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
+
+
+.facebook-text {
+    font-size: 22px;
+    display: inline;
+    color: rgb(0, 115, 255);
+    font-weight: bold;
+}
+
+.my-form {
+    margin-left: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.forgot-account {
+    display: flex;
+    align-items: center;
+}
+
+.input-password-header{
+    margin-left: 10px;
+}
+
+.login-button-header {
+    width: 100px;
+    height: 40px;
+    margin-left: 10px;
+    border: none;
+    background-color: rgb(0, 115, 255);
+    border-radius: 10px;
+    border-color: white;
+    color: white;
+}
+
+.forgot-account-header {
+    display: flex;
+    margin: 10px;
+    align-items: center;
+
+}
